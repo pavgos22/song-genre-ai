@@ -75,3 +75,5 @@ The project uses several Python libraries including:
 
 ### Summary
 This project provides a robust method for classifying music genres based on song lyrics. The use of a Naive Bayes classifier and a user-friendly graphical interface makes it accessible for both technical and non-technical users to classify songs easily.
+
+Full report in English and Polish is in report folder
